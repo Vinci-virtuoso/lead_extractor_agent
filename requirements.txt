@@ -1,0 +1,15 @@
+langchain-groq
+tiktoken
+langchain_community 
+python-dotenv 
+langchain_core 
+langchain_postgres 
+langgraph
+fastembed
+pydantic
+fastapi
+uvicorn
+typing
+pandas
+psycopg2-binary
+psycopg[binary]==3.1.12
